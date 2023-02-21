@@ -11,6 +11,6 @@
 - 📫 How to reach me: eusoujvm@gmail.com
 - 🌱 Languages and Tools: 
 
-  [![My Skills](https://skillicons.dev/icons?i=js,dart,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,dart,html,css,md)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=flutter,visualstudio,androidstudio,idea)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=discord,bots)](https://skillicons.dev)
