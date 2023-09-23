@@ -14,4 +14,4 @@
 - 📫 How to reach me: eusoujvm@gmail.com
 - 🌱 Languages and Tools: 
 
-[![My Skills](https://skillicons.dev/icons?i=py,sql,aws,gcp,azure,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,aws,gcp,azure,vscode)](https://skillicons.dev)
